@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.badge {
+    margin-right: 10px;
+  }
+  
+  .buttonGroup {
+    vertical-align: bottom;
+    background-color: red;
+    
+  }
